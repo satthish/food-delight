@@ -1,0 +1,11 @@
+{
+    "InvalidCredentials" : "User Name or Password is wrong.",
+    "EmptyName":"User Name should not be empty.",
+    "EmptyPassword": "Password should not ne empty.",
+    "NameRequired": "Name is required",
+    "DescRequired": "Description is required",
+    "LocationRequired": "Location is required",
+    "MenuRequired": "Menu name is required",
+    "PriceRequired": "Price is required",
+    "PricePositive": "Price must be positive"
+}

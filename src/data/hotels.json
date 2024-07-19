@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "The Gourmet Kitchen",
+      "description": "A fine dining experience with international cuisine.",
+      "location": "123 Culinary St, Food City",
+      "menus": [
+        {
+          "name": "Grilled Salmon",
+          "description": "Served with a side of vegetables.",
+          "price": 20.99
+        },
+        {
+          "name": "Steak",
+          "description": "Cooked to perfection with a side of mashed potatoes.",
+          "price": 25.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pizza Palace",
+      "description": "Best pizzas in town with a variety of toppings.",
+      "location": "456 Slice Ave, Food City",
+      "menus": [
+        {
+          "name": "Pepperoni Pizza",
+          "description": "Classic pepperoni pizza with extra cheese.",
+          "price": 15.99
+        },
+        {
+          "name": "Veggie Pizza",
+          "description": "Loaded with fresh vegetables.",
+          "price": 13.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Burger Haven",
+      "description": "Delicious burgers with fresh ingredients.",
+      "location": "789 Patty Rd, Food City",
+      "menus": [
+        {
+          "name": "Classic Burger",
+          "description": "A classic burger with lettuce, tomato, and cheese.",
+          "price": 10.99
+        },
+        {
+          "name": "Cheese Fries",
+          "description": "Fries topped with melted cheese.",
+          "price": 5.99
+        }
+      ]
+    }
+  ]
+  
